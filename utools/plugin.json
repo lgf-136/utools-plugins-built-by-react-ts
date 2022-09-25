@@ -1,10 +1,10 @@
 {
-  "name": "template",
-  "pluginName": "template",
-  "description": "template",
+  "name": "todos",
+  "pluginName": "todos",
+  "description": "todos, 代办清单",
   "author": "LGF",
-  "homepage": "./",
-  "version": "1.0.0",
+  "homepage": "https://yuanliao.info/u/lgf",
+  "version": "0.0.1",
   "main": "index.html",
   "logo": "logo.png",
   "platform": [
@@ -18,10 +18,13 @@
   },
   "features": [
     {
-      "code": "template",
-      "explain": "template",
+      "code": "lgf—todos",
+      "explain": "lgf-todos",
       "cmds": [
-        "template"
+        "lgf-todos",
+        "todo",
+        "代办清单",
+        "代办事项"
       ]
     }
   ]
