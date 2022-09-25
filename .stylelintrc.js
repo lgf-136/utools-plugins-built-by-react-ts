@@ -30,7 +30,12 @@ module.exports = {
       "customSyntax": "postcss-html"
     }
   ],
-  rules: {}
+  rules: {
+    "media-feature-name-no-unknown": null,
+    "selector-pseudo-element-no-unknown":null,
+    "no-descending-specificity":null,
+
+  }
 }
 
 // {
